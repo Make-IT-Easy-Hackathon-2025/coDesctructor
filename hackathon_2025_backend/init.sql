@@ -1,0 +1,1 @@
+INSERT INTO event (id, name, description) VALUES (10, 'Event 1', 'Description of event 1');
